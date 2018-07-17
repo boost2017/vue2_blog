@@ -17,7 +17,7 @@ Continue to see vue has been more than two months, and in March the use of vue2.
 
 ## Vue2_blog
 >
-> vue2,vuex,vue-cli,axios,webpack,express,mysql 
+> vue2,vuex,vue-cli,axios,webpack,express,mysql
 ## Build Setup
 
 ``` bash
@@ -47,7 +47,7 @@ npm run build
 >
 >Use vue-cli to build the initialization project, very convenient, used to generate the project template.
 
-## vuex 
+## vuex
 >
 >Vue is used as a communication between components, of course, if the page is simple enough, you can also use other methods to communicate (value), but also the use of other methods to communicate, Such as props and so on.
 ## axios
@@ -93,7 +93,7 @@ npm run build
 
 ## Vue2_blog
 >
-> vue2,vuex,vue-cli,axios,webpack,express,mysql 
+> vue2,vuex,vue-cli,axios,webpack,express,mysql
 ## Build Setup
 
 ``` bash
@@ -124,7 +124,7 @@ npm run build
 >
 >使用vue-cli来构建初始化项目，非常方便，相当于生成项目模板这样子。
 
-## vuex 
+## vuex
 >
 >vue就我个人理解，是数据驱动，实现页面组件化开发，更好管理和维护，vuex是用作组件间的通信，当然了如果页面够简单，也可以使用其他方法进行通信（传值），比如props等。
 
@@ -151,5 +151,3 @@ npm run build
 ## 总结
 >
 >刚用vue开发的时候，遇到了很多问题，也犯了很多错误，不过，现在而言，自己收获蛮多。自己的vue博客（留言板）已经开发完成。我想说的是，麻雀虽小，五脏俱全，虽然只是一个小应用，但它涵盖了许多知识点，包括前端，后端，数据库等一个网站的所必须的一些组成要素，对我来说，学习意义很大，愿共勉！
-## 随意打赏
-<img src="https://www.zygg.cc/wechat_pay.jpg" width="25%"/>
